@@ -1,4 +1,6 @@
-package com.baguladevelopment.EXIFCarver;
+package com.EXIFCarver;
+
+
 
 import javax.swing.JFileChooser;
 import java.io.File;

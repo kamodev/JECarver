@@ -1,4 +1,4 @@
-package com.baguladevelopment.EXIFCarver.FileTypes;
+package com.EXIFCarver.FileTypes;
 
 // The third party imports
 import org.apache.sanselan.formats.jpeg.JpegImageMetadata;

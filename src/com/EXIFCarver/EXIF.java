@@ -1,4 +1,6 @@
-package com.baguladevelopment.EXIFCarver;
+package com.EXIFCarver;
+
+
 
 // Java imports
 import java.io.File;
@@ -6,7 +8,6 @@ import java.io.IOException;
 import java.util.List;
 
 //import org.apache
-import com.baguladevelopment.EXIFCarver.FileTypes.*;
 
 public class EXIF
 {

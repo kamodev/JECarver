@@ -1,4 +1,4 @@
-package com.baguladevelopment.EXIFCarver.FileTypes;
+package com.EXIFCarver.FileTypes;
 
 public class GIF extends FileType
 {        
